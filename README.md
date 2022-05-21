@@ -2,4 +2,4 @@
 
 Maquetado html y css.
 
-https://Suarez-dev.github.io/Practica-tarjeta/
+https://polyxein.github.io/Practica-tarjeta/
